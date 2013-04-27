@@ -20,5 +20,3 @@
     [],[],"outer_terrain_desert"),
 ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",
     [],[], "outer_terrain_beach"),
-("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
-    [],[], "outer_terrain_plain"),
