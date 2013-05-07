@@ -30,3 +30,5 @@
     [],[], "outer_terrain_steppe"), # The Wold by Sotamursu
 ("multi_scene_urabhaya",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000005000d795000350d4000011a4000017ee0000440d",
     [],[], "outer_terrain_plain"), # Urabhaya by Sotamursu
+("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000032224e0a800435130000794a0000305500001978",
+    [],[], "outer_terrain_plain"), # Rock Port by Romans
