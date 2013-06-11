@@ -32,3 +32,9 @@
     [],[], "outer_terrain_plain"), # Rock Port (mixed) by Romans
 ("multi_scene_river_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300c93c800033cce000020d5000065c70000071b",
     [],[], "outer_terrain_plain"), # River Valley (mixed) by Vendigr
+("multi_scene_shariz_village",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003165588c0004c92d0000538c000052de000043b4",
+    [],[], "outer_terrain_steppe"), # Shariz Village (closed) by Maynd
+("multi_scene_old_rhodok_stronghold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b000182a000408fe0000666d00007db9000015ee",
+    [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (closed) by Erminas
+("multi_scene_abbey",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000a002191b0006a5a5000071310000576d00002a84",
+    [],[], "outer_terrain_steppe"), # The Abbey (mixed) by Erminas
