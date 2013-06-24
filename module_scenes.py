@@ -38,3 +38,5 @@
     [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (closed) by Erminas
 ("multi_scene_abbey",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000a002191b0006a5a5000071310000576d00002a84",
     [],[], "outer_terrain_steppe"), # The Abbey (mixed) by Erminas
+("multi_scene_low_born",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003000d732000350e4000047ce00004ba700005d54",
+    [],[], "outer_terrain_plain"), # Low Born (?) by Romans
