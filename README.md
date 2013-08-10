@@ -16,7 +16,7 @@ Open Plain (open) by [KissMyAxe](http://forums.taleworlds.com/index.php?action=p
 
 Oasis (open) by [Fehnor](http://forums.taleworlds.com/index.php?action=profile;u=173810)
 
-Snoop's Exile Island (mixed) by [http://forums.taleworlds.com/index.php?action=profile;u=57717]Slytacular[/url] and Zaffa
+Snoop's Exile Island (mixed) by [Slytacular](http://forums.taleworlds.com/index.php?action=profile;u=57717) and Zaffa
 
 Swamp (open) by [KissMyAxe](http://forums.taleworlds.com/index.php?action=profile;u=154843)
 
