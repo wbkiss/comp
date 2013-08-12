@@ -42,7 +42,7 @@ The Abbey (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=pro
 
 Low Born (closed) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
 
-Quamire (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+Quagmire (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
 Acknowledgements
 ================
