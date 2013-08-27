@@ -44,6 +44,12 @@ Low Born (closed) by [Romans](http://forums.taleworlds.com/index.php?action=prof
 
 Quagmire (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
+Candleroot Hills (Open) by [Mr.X]
+
+Lake Fort (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=profile;u=81116)
+
+The Farm (Open) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
+
 Acknowledgements
 ================
 We appreciate the following clans and teams giving their time to playtest the maps: TMW, wK, Wappaw, Golden Kingdom and Balion. Additionally, I'd like to thank all the participants of the [url=http://forums.taleworlds.com/index.php/topic,259218.0.html]pickup parties[/url] for playing the maps and providing useful feedback.

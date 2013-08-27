@@ -37,6 +37,11 @@
     [],[],"outer_terrain_plain"),
 ("multi_scene_candleroot_hills",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
     [],[],"outer_terrain_plain"),
+("multi_scene_lake_fort",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300322930006c5b1000005ad000056ed00002787",
+    [],[],"outer_terrain_plain"),
+("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030024eb20006759d00005ede0000758a000048b4",
+    [],[],"outer_terrain_plain"),
+
 	
 #Waiting/Needs Work
 ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
