@@ -42,13 +42,19 @@ The Abbey (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=pro
 
 Low Born (closed) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
 
-Quagmire (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+Quagmire (Open/Mixed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
 Candleroot Hills (Open) by [Mr.X]
 
 Lake Fort (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=profile;u=81116)
 
 The Farm (Open) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
+
+Dreicksdorf (Closed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+
+Sally Out (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+
+Suddenly (Open) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
 
 Acknowledgements
 ================
