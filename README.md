@@ -16,7 +16,7 @@ Open Plain (open) by [KissMyAxe](http://forums.taleworlds.com/index.php?action=p
 
 Oasis (open) by [Fehnor](http://forums.taleworlds.com/index.php?action=profile;u=173810)
 
-Snoop's Exile Island (mixed) by [Slytacular](http://forums.taleworlds.com/index.php?action=profile;u=57717) and Zaffa
+Island Resort (mixed) by [Slytacular](http://forums.taleworlds.com/index.php?action=profile;u=57717) and Zaffa
 
 Swamp (open) by [KissMyAxe](http://forums.taleworlds.com/index.php?action=profile;u=154843)
 
@@ -40,9 +40,7 @@ Old Rhodok Stronghold (closed) by [Erminas](http://forums.taleworlds.com/index.p
 
 The Abbey (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=profile;u=81116)
 
-Low Born (closed) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
-
-Quagmire (Open/Mixed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+Quagmire (Mixed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
 Candleroot Hills (Open) by [Mr.X]
 
@@ -50,11 +48,13 @@ Lake Fort (mixed) by [Erminas](http://forums.taleworlds.com/index.php?action=pro
 
 The Farm (Open) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
 
-Dreicksdorf (Closed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
+Dreicksdorf (Mixed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
 Sally Out (Open) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
-Suddenly (Open) by [Romans](http://forums.taleworlds.com/index.php?action=profile;u=27951)
+Incursion (Open) b [Zaffa] 
+
+Rhodok Town (Closed) by [Madoc Comadrin](http://forums.taleworlds.com/index.php?action=profile;u=83722)
 
 Acknowledgements
 ================
