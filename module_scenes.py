@@ -1,4 +1,4 @@
-  # CoMP Stable
+# CoMP Stable
   ("multi_scene_solace",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
       [],[],"outer_terrain_plain"), # Solace (mixed) by Romans
   ("multi_scene_dry_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000450000500000591660000431900001af3000077e3",
@@ -38,14 +38,19 @@
   ("multi_scene_lake_fort",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300322930006c5b1000005ad000056ed00002787",
     [],[],"outer_terrain_plain"), #Lake Fort (Mixed) by Erminas
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"), #Dreiecksdorf (Mixed) by Madoc
+    [],[],"outer_terrain_plain"), #Dreiecksdorf (Closed) by Madoc
   ("multi_scene_sally_out",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300001020004fd40000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"), #Sally Out (Open) by Madoc
+    [],[],"outer_terrain_plain"),
   ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",
-    [],[],"outer_terrain_beach"), #Incursion (Open) by Zaffa
+    [],[],"outer_terrain_beach"),
   ("multi_scene_rhodok_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"), #Rhodok Town (Closed) by Madoc
-
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_agrabah", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",
+    [],[]," outer_terrain_desert"),
+  ("multi_scene_new_port_assault", sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84 ",
+    [],[]," outer_terrain_beach"),
+  ("multi_scene_6_redux", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002300494b200048524000059e80000453300001d32",
+    [],[]," outer_terrain_plain"),
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
       [],[], "outer_terrain_plain"), # Swamp (open/mixed) by KissMyAxe
